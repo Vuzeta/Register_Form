@@ -1,14 +1,16 @@
-## Register Form
+# Register Form
 
-# Description:
-
+#### :fa-pencil: Description 
+------------
 The application was developed in the course of learning the creation of validation forms
 
-# Technology used:
+####:fa-cog:  Technology used:
+------------
  HTML5, CSS3, JavaScript
- 
-# DEMO
+#### :fa-desktop: DEMO 
+------------
 https://vuzeta.github.io/Register_Form
 
-# CODE
+#### :fa-code: CODE
+------------
 https://github.com/Vuzeta/Register_Form

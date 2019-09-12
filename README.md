@@ -1,7 +1,14 @@
-# Register_Form
+## Register Form
 
-Live: https://vuzeta.github.io/Register_Form
+# Description:
 
-Register Form + Validation
+The application was developed in the course of learning the creation of validation forms
 
-HTML5, CSS3, JavaScript
+# Technology used:
+ HTML5, CSS3, JavaScript
+ 
+# DEMO
+https://vuzeta.github.io/Register_Form
+
+# CODE
+https://github.com/Vuzeta/Register_Form

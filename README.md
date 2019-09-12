@@ -1,16 +1,16 @@
 # Register Form
 
-####Description 
+#### Description 
 ------------
 The application was developed in the course of learning the creation of validation forms
 
-####Technology used:
+#### Technology used:
 ------------
  HTML5, CSS3, JavaScript
-####DEMO 
+#### DEMO 
 ------------
 https://vuzeta.github.io/Register_Form
 
-####CODE
+#### CODE
 ------------
 https://github.com/Vuzeta/Register_Form
